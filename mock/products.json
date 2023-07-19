@@ -1,0 +1,62 @@
+{
+  "pages": 1,
+  "total_pages": 1,
+  "total_results": 5,
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "adult": false,
+      "description": "Description of Product 1",
+      "imageUrl": "https://example.com/product1.jpg",
+      "price": 9.99,
+      "rating": 4.5,
+      "comments": 10,
+      "unit": "pcs"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "adult": false,
+      "description": "Description of Product 2",
+      "imageUrl": "https://example.com/product2.jpg",
+      "price": 19.99,
+      "rating": 3.8,
+      "comments": 5,
+      "unit": "pcs"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "adult": true,
+      "description": "Description of Product 3",
+      "imageUrl": "https://example.com/product3.jpg",
+      "price": 14.99,
+      "rating": 4.2,
+      "comments": 8,
+      "unit": "pcs"
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "adult": false,
+      "description": "Description of Product 4",
+      "imageUrl": "https://example.com/product4.jpg",
+      "price": 29.99,
+      "rating": 4.9,
+      "comments": 15,
+      "unit": "pcs"
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "adult": false,
+      "description": "Description of Product 5",
+      "imageUrl": "https://example.com/product5.jpg",
+      "price": 9.99,
+      "rating": 4.0,
+      "comments": 12,
+      "unit": "pcs"
+    }
+  ]
+}
